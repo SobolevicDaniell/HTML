@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+}
+.hat {
+    width: 1000px;
+    background-color: purple;
+    height: 100px;
+    margin: calc(50vh - 50px) auto;
+    list-style-type: none;
+}
+.navigation {
+    width: 1000px;
+    background-color: greenyellow;
+    height: 100px;
+    margin: calc(50vh - 50px) auto;
+    list-style-type: none;
+}
+.content {
+    width: 1000px;
+    background-color: rgb(87, 200, 245);
+    height: 100px;
+    margin: calc(50vh - 50px) auto;
+    list-style-type: none;
+}
+.panel {
+    width: 1000px;
+    background-color: rgb(185, 185, 185);
+    height: 100px;
+    margin: calc(50vh - 50px) auto;
+    list-style-type: none;
+}
+.podval {
+    width: 1000px;
+    background-color: rgb(162, 47, 216);
+    height: 100px;
+    margin: calc(50vh - 50px) auto;
+    list-style-type: none;
+}

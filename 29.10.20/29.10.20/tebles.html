@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <title>Таблицы</title>
+    <style>
+        table, td, th {
+            border: 1px solid;
+        }
+        .box {
+            width: 100px;
+            height: 100px;
+            background: #80f;
+        }
+    </style>
+</head>
+<body>
+    <!-- 
+        table -таблица
+        tr - строка (table row)
+        tb - ячейка (table data)
+        th - заголовочная ячейка (table head)
+     -->
+    <table>
+        <caption>Самые необычные люди 2020</caption>
+        <tr>
+            <th colspan="2">ФИО</th>
+            <th>Год рождения</th>
+            <th>Любимый цвет</th>
+        </tr>
+        <!-- tr*3>td{Ячейка $@4}*3 -->
+        <tr>
+            <td>Регель</td>
+            <td>Кирилл</td>
+            <td>2003</td>
+            <td>blue</td>
+        </tr>
+        <tr>
+            <td>Долматов</td>
+            <td>Даниил</td>
+            <td rowspan="2">2004</td>
+            <td>white</td>
+        </tr>
+        <tr>
+            <td>Абдулев</td>
+            <td>Магомед</td>
+            
+            <td div class="box"></div>blue</td>
+        </tr>
+        <tr>
+            <td>Абдулев</td>
+            <td>Ильяс</td>
+            <td>2003</td>
+            <td>black</td>
+        </tr>
+       
+    </table>
+</body>
+</html>

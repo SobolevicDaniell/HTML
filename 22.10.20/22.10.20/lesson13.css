@@ -1,0 +1,111 @@
+body {
+    background-color: rgb(56, 56, 56);
+}
+.all {
+    vertical-align: top;
+    width: 250px;
+    height: 700px;
+    display: inline-block;
+    text-align: center;
+    margin-top: 10px;
+    padding-top: 10px;
+    margin: 20px;
+}
+
+.square1 {
+    width: 250px;
+    height: 250px;
+    display: inline-block;
+    background-color: cyan;
+}
+.square1:hover {
+    background-color: rgb(0, 204, 255);
+}
+.rectangle1 {
+    width: 250px;
+    height: 125px;
+    display: inline-block;
+    background-color: cyan;
+}
+.rectangle1:hover  {
+    background-color: rgb(0, 204, 255);
+}
+.miniSquare1 {
+    width: 123px;
+    height: 123px;
+    display: inline-block;
+    background-color: cyan;
+}
+.miniSquare1:hover   {
+    background-color: rgb(0, 204, 255);
+}
+.miniSquare1solo {
+    width: 123px;
+    height: 123px;
+    background-color: cyan;
+}
+.miniSquare1solo:hover  {
+    background-color: rgb(0, 204, 255);
+}
+.miniSquare2solo {
+    width: 123px;
+    height: 123px;
+    background-color: red;
+}
+.miniSquare2solo:hover  {
+    background-color: rgb(255, 94, 0);
+}
+.square2 {
+    width: 250px;
+    height: 250px;
+    display: inline-block;
+    background-color: red;
+}
+.square2:hover  {
+    background-color: rgb(255, 94, 0);
+}
+.rectangle2 {
+    width: 250px;
+    height: 125px;
+    display: inline-block;
+    background-color: red;
+}
+.rectangle2:hover  {
+    background-color: rgb(255, 94, 0);
+}
+.miniSquare2 {
+    width: 123px;
+    height: 123px;
+    display: inline-block;
+    background-color: red;
+}
+.miniSquare2:hover  {
+    background-color: rgb(255, 94, 0);
+}
+.square3 {
+    width: 250px;
+    height: 250px;
+    display: inline-block;
+    background-color: green;
+}
+.square3:hover  {
+    background-color: greenyellow;
+}
+.rectangle3 {
+    width: 250px;
+    height: 125px;
+    display: inline-block;
+    background-color: green;
+}
+.rectangle3:hover  {
+    background-color: greenyellow;
+}
+.miniSquare3 {
+    width: 123px;
+    height: 123px;
+    display: inline-block;
+    background-color: green;
+}
+.miniSquare3:hover  {
+    background-color: greenyellow;
+}
